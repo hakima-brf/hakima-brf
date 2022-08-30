@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📫 How to reach me **hakima.bouarafa1@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
